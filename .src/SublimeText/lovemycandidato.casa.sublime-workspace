@@ -1,0 +1,1067 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"aray_key",
+				"array_key_exists"
+			],
+			[
+				"ph",
+				"php"
+			],
+			[
+				"ba",
+				"background-origin"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"s",
+				"span	Tag"
+			],
+			[
+				"d",
+				"div	Tag"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"a",
+				"a	Tag"
+			],
+			[
+				"princ",
+				"principal"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"php",
+				"phpinfo"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"art",
+				"article	Tag"
+			],
+			[
+				"echo",
+				"echo"
+			],
+			[
+				"con",
+				"conta"
+			],
+			[
+				"for",
+				"for	for …"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"ech",
+				"echo"
+			],
+			[
+				"print",
+				"printf"
+			],
+			[
+				"fo",
+				"for	for …"
+			],
+			[
+				"ec",
+				"echo"
+			],
+			[
+				"array_mer",
+				"array_merge_recursive"
+			],
+			[
+				"func",
+				"func"
+			],
+			[
+				"trata",
+				"trata_form"
+			],
+			[
+				"array_re",
+				"array_replace"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"t",
+				"td	Tag"
+			],
+			[
+				"arry",
+				"array"
+			],
+			[
+				"suce",
+				"success"
+			],
+			[
+				"SETT",
+				"settings"
+			],
+			[
+				"th",
+				"thead	Tag"
+			],
+			[
+				"bo",
+				"body_end"
+			],
+			[
+				"const",
+				"construct"
+			],
+			[
+				"sc",
+				"script"
+			],
+			[
+				"tem",
+				"temp"
+			],
+			[
+				"sett",
+				"settings"
+			],
+			[
+				"is",
+				"is_a"
+			],
+			[
+				"remo",
+				"remove"
+			],
+			[
+				"b",
+				"book"
+			],
+			[
+				"dom",
+				"dom_import_simplexml"
+			],
+			[
+				"new",
+				"news"
+			],
+			[
+				"simple",
+				"simplexml_load_file"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"xml",
+				"xmlDoc"
+			],
+			[
+				"ht",
+				"html"
+			],
+			[
+				"createSer",
+				"https.createServer(opts, requestListener);"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"pr",
+				"process"
+			],
+			[
+				"pu",
+				"push"
+			],
+			[
+				"pro",
+				"proccess"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"de",
+				"delay"
+			],
+			[
+				"app",
+				"app-display"
+			],
+			[
+				"w",
+				"while"
+			],
+			[
+				"app-cor-",
+				"app-cor-preto-0"
+			],
+			[
+				"cor",
+				"color"
+			],
+			[
+				"ac",
+				"action"
+			],
+			[
+				"att",
+				"attr_html"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"c",
+				"ceil(number)"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"app-pa",
+				"app-cor-padrao"
+			],
+			[
+				"app-cor-padr",
+				"app-cor-padrao-fraco"
+			],
+			[
+				"app-cor",
+				"app-cor-azul"
+			],
+			[
+				"js",
+				"json_decode"
+			],
+			[
+				"array_k",
+				"array_keys"
+			],
+			[
+				"su",
+				"success"
+			],
+			[
+				"els",
+				"else"
+			],
+			[
+				"valida",
+				"valida_parametro"
+			],
+			[
+				"array_ke",
+				"array_key_exists"
+			],
+			[
+				"e",
+				"empty"
+			],
+			[
+				"gett",
+				"gettype"
+			],
+			[
+				"array_key",
+				"array_key_exists"
+			],
+			[
+				"usn",
+				"unset"
+			],
+			[
+				"is_a",
+				"is_array"
+			],
+			[
+				"read",
+				"readfile"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"unse",
+				"unset"
+			],
+			[
+				"lis",
+				"lista"
+			],
+			[
+				"get",
+				"getmygid"
+			],
+			[
+				"font",
+				"font-size"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"remoc",
+				"Package Control: Remove Package"
+			],
+			[
+				"git: s",
+				"Git: Status"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 144.0,
+		"history":
+		[
+			"git",
+			"cls",
+			"git",
+			"node -v",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/fernando.fte/Projetos/web/lovemycandidato"
+	],
+	"file_history":
+	[
+		"/D/fernando.fte/Projetos/web/lovemycandidato/index.php",
+		"/D/fernando.fte/Projetos/web/erikimoveis/adm/contents/menu.html",
+		"/D/fernando.fte/Projetos/web/erikimoveis/adm/config.php",
+		"/D/fernando.fte/Projetos/web/erikimoveis/adm/vendor/.account.php",
+		"/D/fernando.fte/Projetos/web/erikimoveis/adm/page.php",
+		"/D/fernando.fte/Projetos/web/erikimoveis/adm/contents/list.html",
+		"/D/fernando.fte/Projetos/web/rogeriocalazans/php/.paths.php",
+		"/D/fernando.fte/Projetos/web/erikimoveis/adm/contents/login.html",
+		"/D/fernando.fte/Projetos/web/rogeriocalazans/contents/app/basic/menu.html",
+		"/D/fernando.fte/Projetos/web/erikimoveis/adm/index.php",
+		"/D/fernando.fte/Projetos/web/rogeriocalazans/php/.config.php",
+		"/D/fernando.fte/Projetos/web/rogeriocalazans/php/.pages.php",
+		"/D/fernando.fte/Projetos/web/erikimoveis/php/index.php",
+		"/D/fernando.fte/Projetos/web/erikimoveis/ftpsync.settings",
+		"/D/fernando.fte/Projetos/web/erikmoveis_update/ftpsync.settings",
+		"/D/fernando.fte/Projetos/web/erikimoveis/gerenciador/gerenciador/ThemeOffice/demo.php",
+		"/C/Users/FernandoTruculo/AppData/Local/Temp/Rar$DIa0.598/demo.php",
+		"/C/Users/FernandoTruculo/AppData/Local/Temp/Rar$DIa0.775/demo - C¾pia.php",
+		"/D/fernando.fte/Projetos/web/erikimoveis/gerenciador/gerenciador/ThemeOffice/demo - C¾pia.php",
+		"/D/fernando.fte/Projetos/web/erikimoveis/style/app/lightbox.less",
+		"/D/fernando.fte/Projetos/web/erikimoveis/style/app/banner.imovel.less",
+		"/D/fernando.fte/Projetos/web/erikmoveis_update/style/app/banner.imovel.less",
+		"/D/fernando.fte/Projetos/web/erikmoveis_update/imovel.ler.php",
+		"/D/fernando.fte/Projetos/web/erikmoveis_update/bottom.php",
+		"/D/fernando.fte/Projetos/web/erikimoveis/.bkp/2016.08.01/lib/db/connect_mysql.php",
+		"/D/fernando.fte/Projetos/web/erikimoveis/.bkp/2016.07.14/lib/db/connect_mysql.php",
+		"/C/Users/FernandoTruculo/Downloads/erik87_eriknegociosimobiliarios (1).sql",
+		"/D/fernando.fte/Projetos/web/erikimoveis/gerenciador/gerenciador/phpImoveis/EventosNoticiasAtiva.php",
+		"/D/fernando.fte/Projetos/web/erikimoveis/gerenciador/gerenciador/phpImoveis/EventosNoticiasImagensCad.php",
+		"/D/fernando.fte/Projetos/web/erikimoveis/gerenciador/gerenciador/phpImoveis/EventosNoticiasImagensCadSql.php",
+		"/D/fernando.fte/Projetos/web/erikimoveis/gerenciador/gerenciador/phpImoveis/EventosNoticiasImagensDel.php",
+		"/D/fernando.fte/Projetos/web/erikimoveis/gerenciador/gerenciador/phpImoveis/fabricar_miniatura - Copy/fazminiatura - Copy.php",
+		"/D/fernando.fte/Projetos/web/erikimoveis/gerenciador/gerenciador/phpImoveis/fabricar_miniatura - Copy/fazminiatura.php",
+		"/D/fernando.fte/Projetos/web/erikimoveis/gerenciador/gerenciador/phpImoveis/fabricar_miniatura - Copy/fazminiaturaGD.php",
+		"/D/fernando.fte/Projetos/web/erikimoveis/gerenciador/gerenciador/phpImoveis/fabricar_miniatura/fazminiatura - Copy.php",
+		"/D/fernando.fte/Projetos/web/erikimoveis/gerenciador/gerenciador/phpImoveis/fabricar_miniatura/fazminiatura.php",
+		"/D/fernando.fte/Projetos/web/erikimoveis/gerenciador/gerenciador/phpImoveis/fabricar_miniatura/fazminiaturaGD.php",
+		"/D/fernando.fte/Projetos/web/erikimoveis/gerenciador/gerenciador/phpImoveis/popUp/CadImgIndex.php.bak",
+		"/D/fernando.fte/Projetos/web/erikimoveis/gerenciador/gerenciador/phpImoveis/popUp/DelImgIndex.php.bak",
+		"/D/fernando.fte/Projetos/web/erikimoveis/gerenciador/gerenciador/phpImoveis/popUpFlv/flvCad.php",
+		"/D/fernando.fte/Projetos/web/erikimoveis/gerenciador/gerenciador/phpImoveis/popUpFlv/flvCadPost.php",
+		"/D/fernando.fte/Projetos/web/erikimoveis/gerenciador/gerenciador/phpImoveis/popYouTube/youtubeCad.php",
+		"/D/fernando.fte/Projetos/web/erikimoveis/gerenciador/gerenciador/phpImoveis/popYouTube/youtubeCadPost.php",
+		"/D/fernando.fte/Projetos/web/erikimoveis/gerenciador/gerenciador/phpNoticias/EventosNoticiasAtiva.php",
+		"/D/fernando.fte/Projetos/web/erikimoveis/gerenciador/gerenciador/phpNoticias/EventosNoticiasAtiva.php.bak",
+		"/D/fernando.fte/Projetos/web/erikimoveis/gerenciador/gerenciador/phpNoticias/EventosNoticiasImagensCad.php",
+		"/D/fernando.fte/Projetos/web/erikimoveis/gerenciador/gerenciador/phpNoticias/EventosNoticiasImagensCad.php.bak",
+		"/D/fernando.fte/Projetos/web/erikimoveis/gerenciador/gerenciador/phpNoticias/EventosNoticiasImagensCadSql.php",
+		"/D/fernando.fte/Projetos/web/erikimoveis/gerenciador/gerenciador/phpNoticias/EventosNoticiasImagensCadSql.php.bak",
+		"/D/fernando.fte/Projetos/web/erikimoveis/gerenciador/gerenciador/phpNoticias/EventosNoticiasImagensDel.php",
+		"/D/fernando.fte/Projetos/web/erikimoveis/gerenciador/gerenciador/phpNoticias/EventosNoticiasImagensDel.php.bak",
+		"/D/fernando.fte/Projetos/web/erikimoveis/gerenciador/gerenciador/phpNoticias/fabricar_miniatura - Copy/fazminiatura - Copy.php",
+		"/D/fernando.fte/Projetos/web/erikimoveis/gerenciador/gerenciador/phpNoticias/fabricar_miniatura - Copy/fazminiatura.php",
+		"/D/fernando.fte/Projetos/web/erikimoveis/gerenciador/gerenciador/phpNoticias/fabricar_miniatura - Copy/fazminiaturaGD.php",
+		"/D/fernando.fte/Projetos/web/erikimoveis/gerenciador/gerenciador/phpNoticias/fabricar_miniatura/fazminiatura - Copy.php",
+		"/D/fernando.fte/Projetos/web/erikimoveis/gerenciador/gerenciador/phpNoticias/fabricar_miniatura/fazminiatura.php",
+		"/D/fernando.fte/Projetos/web/erikimoveis/gerenciador/gerenciador/phpNoticias/fabricar_miniatura/fazminiaturaGD.php",
+		"/D/fernando.fte/Projetos/web/erikimoveis/gerenciador/gerenciador/phpNoticias/NoticiasCad.php",
+		"/D/fernando.fte/Projetos/web/erikimoveis/gerenciador/gerenciador/phpNoticias/NoticiasCad.php.bak",
+		"/D/fernando.fte/Projetos/web/erikimoveis/gerenciador/gerenciador/phpNoticias/NoticiasDel.php",
+		"/D/fernando.fte/Projetos/web/erikimoveis/gerenciador/gerenciador/phpNoticias/NoticiasDel.php.bak",
+		"/D/fernando.fte/Projetos/web/erikimoveis/gerenciador/gerenciador/phpNoticias/NoticiasList.php",
+		"/D/fernando.fte/Projetos/web/erikimoveis/gerenciador/gerenciador/phpNoticias/NoticiasList.php.bak",
+		"/D/fernando.fte/Projetos/web/erikimoveis/gerenciador/gerenciador/phpNoticias/popUp/CadImgIndex.php",
+		"/D/fernando.fte/Projetos/web/erikimoveis/gerenciador/gerenciador/phpNoticias/popUp/CadImgIndex.php.bak",
+		"/D/fernando.fte/Projetos/web/erikimoveis/gerenciador/gerenciador/phpNoticias/popUp/DelImgIndex.php",
+		"/D/fernando.fte/Projetos/web/erikimoveis/gerenciador/gerenciador/phpNoticias/popUp/DelImgIndex.php.bak",
+		"/D/fernando.fte/Projetos/web/erikimoveis/gerenciador/gerenciador/phpNoticias/popUpFlv/flvCad.php",
+		"/D/fernando.fte/Projetos/web/erikimoveis/gerenciador/gerenciador/phpNoticias/popUpFlv/flvCadPost.php",
+		"/D/fernando.fte/Projetos/web/erikimoveis/gerenciador/gerenciador/phpNoticias/popYouTube/error_log",
+		"/D/fernando.fte/Projetos/web/erikimoveis/gerenciador/gerenciador/phpNoticias/popYouTube/youtubeCad.php",
+		"/D/fernando.fte/Projetos/web/erikimoveis/gerenciador/gerenciador/phpNoticias/popYouTube/youtubeCadPost.php",
+		"/D/fernando.fte/Projetos/web/erikimoveis/gerenciador/gerenciador/phpImoveis/imoveis.cad.images.delete.php",
+		"/D/fernando.fte/Projetos/web/erikimoveis/gerenciador/gerenciador/phpImoveis/imoveis.cad.images.gallery.delete.php",
+		"/D/fernando.fte/Projetos/web/erikimoveis/gerenciador/gerenciador/phpImoveis/imoveis.cad.images.gallery.insert.php",
+		"/D/fernando.fte/Projetos/web/erikimoveis/gerenciador/gerenciador/phpImoveis/imoveis.cad.images.insert.php",
+		"/D/fernando.fte/Projetos/web/erikimoveis/gerenciador/gerenciador/phpImoveis/imoveis.cad.thumb.images.php",
+		"/D/fernando.fte/Projetos/web/erikimoveis/gerenciador/gerenciador/phpImoveis/imoveisdel.php",
+		"/D/fernando.fte/Projetos/web/erikimoveis/gerenciador/gerenciador/phpImoveis/popUp/DelImgIndex.php",
+		"/D/fernando.fte/Projetos/web/erikimoveis/gerenciador/gerenciador/phpBanners/BannersCad.php",
+		"/D/fernando.fte/Projetos/web/erikimoveis/gerenciador/gerenciador/phpBanners/BannersCad.php.bak",
+		"/D/fernando.fte/Projetos/web/erikimoveis/gerenciador/gerenciador/phpBanners/BannersDel.php",
+		"/D/fernando.fte/Projetos/web/erikimoveis/gerenciador/gerenciador/phpBanners/BannersDel.php.bak",
+		"/D/fernando.fte/Projetos/web/erikimoveis/gerenciador/gerenciador/phpBanners/BannersEdit.php",
+		"/D/fernando.fte/Projetos/web/erikimoveis/gerenciador/gerenciador/phpBanners/BannersEdit.php.bak",
+		"/D/fernando.fte/Projetos/web/erikimoveis/gerenciador/gerenciador/phpBanners/BannersList.php",
+		"/D/fernando.fte/Projetos/web/erikimoveis/gerenciador/gerenciador/phpBanners/BannersList.php.bak",
+		"/D/fernando.fte/Projetos/web/erikimoveis/gerenciador/gerenciador/phpBanners/BannersView.php",
+		"/D/fernando.fte/Projetos/web/erikimoveis/gerenciador/gerenciador/phpBanners/gerabanner.php",
+		"/D/fernando.fte/Projetos/web/erikimoveis/gerenciador/gerenciador/phpBanners/gerabanner.php.bak",
+		"/C/Users/FernandoTruculo/Downloads/error_log",
+		"/D/fernando.fte/Projetos/web/erikimoveis/top.php",
+		"/D/fernando.fte/Projetos/web/erikimoveis/bottom.php",
+		"/D/fernando.fte/Projetos/web/erikimoveis/style/style.css",
+		"/D/fernando.fte/Projetos/web/erikimoveis/imovel.ler.php",
+		"/D/fernando.fte/Projetos/web/erikimoveis/noticias.ler.php",
+		"/D/fernando.fte/Projetos/web/erikimoveis/style/app/novidade.less",
+		"/D/fernando.fte/Projetos/web/erikimoveis/style/app/noticia.less",
+		"/D/fernando.fte/Projetos/web/erikimoveis/contato.php",
+		"/D/fernando.fte/Projetos/web/erikimoveis/enviaemail.php",
+		"/D/fernando.fte/Projetos/web/erikimoveis/sobre.php",
+		"/D/fernando.fte/Projetos/web/erikimoveis/noticias.php",
+		"/D/fernando.fte/Projetos/web/erikimoveis/imovel.ler.galery.php",
+		"/D/fernando.fte/Projetos/web/erikimoveis/home.php",
+		"/D/fernando.fte/Projetos/web/erikimoveis/gerabanner.php",
+		"/D/fernando.fte/Projetos/web/erikimoveis/ipconfig.php",
+		"/D/fernando.fte/Projetos/web/erikimoveis/index.php",
+		"/D/fernando.fte/Projetos/web/erikimoveis/.htaccess",
+		"/D/fernando.fte/Projetos/web/erikimoveis/error_log",
+		"/D/fernando.fte/Projetos/web/erikimoveis/website/noticias.ler.php",
+		"/D/fernando.fte/Projetos/web/erikimoveis/website/noticias.php",
+		"/D/fernando.fte/Projetos/web/erikimoveis/website/imovel.ler.php",
+		"/D/fernando.fte/Projetos/web/erikimoveis/website/style/app/gallery.less",
+		"/D/fernando.fte/Projetos/web/erikimoveis/website/imovel.ler.galery.php",
+		"/D/fernando.fte/Projetos/web/erikimoveis/website/emailenviado.php",
+		"/D/fernando.fte/Projetos/web/erikimoveis/website/bottom.php",
+		"/D/fernando.fte/Projetos/web/erikimoveis/website/script/app.coffee",
+		"/D/fernando.fte/Projetos/web/livrodigital/php/navigation/.functions.php",
+		"/D/fernando.fte/Projetos/web/livrodigital/php/navigation/.config.php",
+		"/D/fernando.fte/Projetos/web/erikimoveis/website/script/app.js",
+		"/D/fernando.fte/Projetos/web/erikimoveis/website/contato.php",
+		"/D/fernando.fte/Projetos/web/erikimoveis/website/style/app.less",
+		"/D/fernando.fte/Projetos/web/erikimoveis/website/style/app/form.less",
+		"/D/fernando.fte/Projetos/web/erikimoveis/website/script/custom.js",
+		"/D/fernando.fte/Projetos/web/erikimoveis/website/php/index.php",
+		"/C/Users/FernandoTruculo/AppData/Local/Temp/fz3temp-1/custom.js",
+		"/D/fernando.fte/Projetos/web/erikimoveis/info.php",
+		"/D/fernando.fte/Projetos/web/erikimoveis/website/style/app/lightbox.less"
+	],
+	"find":
+	{
+		"height": 21.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"D:\\fernando.fte\\Projetos\\web\\erikimoveis\\gerenciador",
+			"D:\\fernando.fte\\Projetos\\web\\erikimoveis\\website",
+			"D:\\fernando.fte\\Projetos\\web\\erikimoveis",
+			"D:\\fernando.fte\\Projetos\\web\\livrodigital\\aplicativos\\vgconsultoria\\style",
+			"D:\\fernando.fte\\Projetos\\web\\livrodigital",
+			"D:\\fernando.fte\\Projetos\\web\\livrodigital\\aplicativos\\vgconsultoria\\style",
+			"D:\\fernando.fte\\Projetos\\web\\livroDigital\\style\\less\\bootstrap"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"/\"",
+			"list-",
+			"md-5",
+			"singlebutton",
+			"button",
+			"php",
+			"/noticias/img/",
+			".imovel-banner",
+			";\n",
+			"..\\",
+			"\\..\\",
+			"noticias",
+			"_imoveis_images",
+			"_banners",
+			"_",
+			"<div class=\"col-md-4\">",
+			" input\"",
+			"l form-control-white",
+			"<div class=\"form-group\">",
+			"php=",
+			"../_noticias_images",
+			"php=",
+			"center",
+			"php=",
+			"').",
+			"form-control ",
+			"form-control",
+			"div",
+			"<h",
+			"php=",
+			" input",
+			".modal-header ",
+			".ekko-lightbox ",
+			".ekko-lightbox",
+			"function.resizamos.php?src=<?php echo ",
+			"tumblr_mrn3dc10Wa1r1thfzo8_1280.jpg",
+			"href=\"",
+			" src=\"//",
+			"href=\"//",
+			"http://[\\S]*.media.tumblr.com/[\\S]*/",
+			"http://41.media.tumblr.com/f37ac708134914c471073e4c0b47328d/",
+			"red",
+			".banner-imovel",
+			".banner-carousel-item",
+			" class=\"h3\"",
+			" @principal",
+			"@navbar-default-bg",
+			"h2",
+			"h3",
+			"@red",
+			".carousel",
+			".carousel-control.left",
+			"avbar-toggle",
+			"toggle",
+			"i",
+			"dropdown-link-hover-bg",
+			".dropdown-menu",
+			"open",
+			"@navbar-default-link-color",
+			"navbar-default-color",
+			"navbar-default-link-color",
+			"navbar-default-brand-color",
+			"navbar-default",
+			"app-",
+			".navbar {",
+			".navbar",
+			"navbar-brand",
+			"navbar-header",
+			"navbar-brand",
+			"navbar-padding-vertical",
+			"brand",
+			"navbar",
+			"brand",
+			"border-radius-base;",
+			"navba",
+			"<!-- ",
+			"font",
+			"%\"/>",
+			"h2",
+			"php=",
+			"\\\"",
+			"<?php=",
+			"  ",
+			"featured-article",
+			"novidades",
+			"noticias",
+			"<?php=",
+			"banner_file",
+			"\n	{",
+			"  ",
+			"style",
+			"  ",
+			"    ",
+			"menuEmpLANC",
+			"menuEmpIdLANC",
+			"<\\?phpphp",
+			"<\\?",
+			"<\\?php",
+			"<\\?\\n",
+			"https://drive.google.com/open?id=",
+			"Titulo =",
+			"video.",
+			" https://drive.google.com/open?id=",
+			"article_",
+			"<article_h2>",
+			"<h2>",
+			"<article_h1>",
+			"<h1>",
+			"$reserve['._.list']",
+			"getSelectData_valida",
+			"getSelect_data",
+			"valida_valor",
+			"'contents'",
+			"contents",
+			"'exato'",
+			"'type'",
+			"'exigido'",
+			"'existe'",
+			"._.",
+			"$matriz",
+			"$matri",
+			"type",
+			"$matriz[$nome]['._.type'][$u]",
+			"name",
+			"VALIDA A FUNÇÃO ",
+			"teste",
+			"'",
+			"		#"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"img/noticias",
+			"img/imoveis",
+			"img/banners",
+			"@principal",
+			"<?php",
+			"<?php\\n",
+			"'.contents'",
+			"'.exato'",
+			"'.type'",
+			"'.exigido'",
+			"'.existe'",
+			"</span>",
+			"<span data-book-fonte>",
+			"&#160;",
+			"</i></b>",
+			"<b><i>",
+			"",
+			"short",
+			"[",
+			"]]",
+			"[$",
+			"']",
+			"['",
+			"success",
+			"http://mantis.acsor.com.br:83/",
+			" ",
+			"#BCC4D8",
+			"#2B186F",
+			"#7A8CBF",
+			"#FFFFFF",
+			"#2B186F",
+			"#667BB4",
+			"\"Overlock\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "D:\\fernando.fte\\Projetos\\web\\lovemycandidato"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 38.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				".func",
+				"php\\.functions.php"
+			],
+			[
+				"func",
+				"php\\functions.php"
+			],
+			[
+				".con",
+				"php\\.config.php"
+			],
+			[
+				".cofi",
+				"php\\.config.php"
+			],
+			[
+				".pages",
+				"php\\.pages.php"
+			],
+			[
+				".",
+				"php\\.pages.php"
+			],
+			[
+				"pah",
+				"php\\.paths.php"
+			],
+			[
+				".pa",
+				"php\\.pages.php"
+			],
+			[
+				".p",
+				"php\\.pages.php"
+			],
+			[
+				".page",
+				"php\\.pages.php"
+			],
+			[
+				"app.l",
+				"style\\app.less"
+			],
+			[
+				"pages",
+				"aplicativos\\vgconsultoria\\style\\app\\pages.less"
+			],
+			[
+				"men",
+				"contents\\form\\menu.html"
+			],
+			[
+				".path",
+				"php\\.paths.php"
+			],
+			[
+				"conf",
+				"php\\.config.php"
+			],
+			[
+				"confi",
+				"php\\.config.php"
+			],
+			[
+				"lesspage",
+				"style\\less\\app\\pages.less"
+			],
+			[
+				"vendor",
+				"scripts\\vendors.js"
+			],
+			[
+				"app",
+				"scripts\\app.coffee"
+			],
+			[
+				"src",
+				"sources\\capitulo.content.src"
+			],
+			[
+				"app.js",
+				"scripts\\app.js"
+			],
+			[
+				"app.c",
+				"scripts\\app.coffee"
+			],
+			[
+				"config",
+				"style\\._.config.less"
+			],
+			[
+				"cover",
+				"style\\less\\app\\cover.less"
+			],
+			[
+				"sumaro",
+				"style\\less\\app\\sumario.less"
+			],
+			[
+				"map",
+				"sources\\map.src"
+			],
+			[
+				"index",
+				"sources\\index.project.src"
+			],
+			[
+				"con",
+				"php\\._.config.php"
+			],
+			[
+				"sourcecapa",
+				"sources\\capa.src"
+			],
+			[
+				"scr",
+				"sources\\scripts.src"
+			],
+			[
+				"capa",
+				"sources\\capa.src"
+			],
+			[
+				"pa",
+				"style\\less\\app\\pages.less"
+			],
+			[
+				"hea",
+				"sources\\header.src"
+			],
+			[
+				"ma",
+				"sources\\map.src"
+			],
+			[
+				"head",
+				"sources\\header.src"
+			],
+			[
+				"out",
+				"style\\less\\app\\outros.less"
+			],
+			[
+				"nav",
+				"estrutura\\nav-bar.html"
+			],
+			[
+				"varia",
+				"style\\less\\bootstrap\\variables.less"
+			],
+			[
+				"gr",
+				"style\\less\\bootstrap\\grid.less"
+			],
+			[
+				"var",
+				"style\\less\\bootstrap\\variables.less"
+			],
+			[
+				"u",
+				"style\\less\\bootstrap\\utilities.less"
+			],
+			[
+				"glo",
+				"style\\less\\app\\globais.less"
+			],
+			[
+				"ty",
+				"style\\less\\bootstrap\\type.less"
+			],
+			[
+				"gri",
+				"style\\less\\bootstrap\\mixins\\grid-framework.less"
+			],
+			[
+				"outr",
+				"style\\less\\app\\outros.less"
+			],
+			[
+				"ut",
+				"style\\less\\bootstrap\\utilities.less"
+			],
+			[
+				"mi",
+				"style\\less\\bootstrap\\mixins.less"
+			],
+			[
+				"test",
+				"estrutura\\test.html"
+			],
+			[
+				"globais",
+				"style\\less\\app\\globais.less"
+			],
+			[
+				"tes",
+				"estrutura\\test.html"
+			],
+			[
+				"fra",
+				"style\\less\\bootstrap\\mixins\\grid-framework.less"
+			],
+			[
+				"g",
+				"style\\less\\bootstrap\\grid.less"
+			],
+			[
+				"outros",
+				"style\\less\\app\\outros.less"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\fernando.fte\\Projetos\\web\\livrodigital\\_src\\SublimeText\\livrodigitalpro[casa].sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 331.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
